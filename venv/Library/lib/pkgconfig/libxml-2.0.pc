@@ -1,0 +1,11 @@
+prefix=c:/Python/venv/Library 
+exec_prefix=c:/Python/venv/Library 
+libdir=c:/Python/venv/Library/lib 
+includedir=c:/Python/venv/Library/include 
+modules=0 
+Name: libXML 
+Version: 2.13.9 
+Description: libXML library version2. 
+Requires: 
+Libs: -Lc:/Python/venv/Library/lib -lxml2 -liconv -lz 
+Cflags: -Ic:/Python/venv/Library/include/libxml2 -Ic:/Python/venv/Library/include 

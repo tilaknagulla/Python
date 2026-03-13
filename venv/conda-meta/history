@@ -23,3 +23,22 @@
 +defaults/win-64::xz-5.6.4-h4754444_1
 +defaults/win-64::zlib-1.3.1-h02ab6af_0
 # update specs: ['python==3.12']
+==> 2026-03-13 21:11:04 <==
+# cmd: C:\Users\HP\miniconda3\Scripts\conda-script.py install --prefix c:\Python\venv --yes numpy
+# conda version: 25.11.1
+-defaults/win-64::openssl-3.0.19-hbb43b14_0
++defaults/win-64::blas-1.0-mkl
++defaults/win-64::intel-openmp-2025.0.0-haa95532_1164
++defaults/win-64::libhwloc-2.12.1-default_hfa10c62_1000
++defaults/win-64::libiconv-1.18-hc89ec93_0
++defaults/win-64::libxml2-2.13.9-h6201b9f_0
++defaults/win-64::mkl-2025.0.0-h5da7b33_930
++defaults/win-64::mkl-service-2.5.2-py312h0b37514_0
++defaults/win-64::mkl_fft-2.1.1-py312h300f80d_0
++defaults/win-64::mkl_random-1.3.0-py312ha5e6156_0
++defaults/win-64::numpy-2.4.2-py312h22cce72_0
++defaults/win-64::numpy-base-2.4.2-py312h1df51cf_0
++defaults/win-64::openssl-3.5.5-hbb43b14_0
++defaults/win-64::tbb-2022.3.0-h90c84d6_0
++defaults/win-64::tbb-devel-2022.3.0-h90c84d6_0
+# update specs: ['numpy']
