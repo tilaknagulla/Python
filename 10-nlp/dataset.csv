@@ -1,0 +1,7 @@
+text,intent
+"Book a flight to Mumbai for tomorrow morning.",book_flight
+"Cancel my hotel reservation.",cancel_booking
+"What's the weather like in Dubai today",weather_query
+"Play some relaxing music.",play_music
+"Set a reminder for my meeting at 3 PM.",set_reminder
+"Find me a good restaurant nearby.",restaurant_search
